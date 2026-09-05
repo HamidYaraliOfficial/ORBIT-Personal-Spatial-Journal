@@ -1,0 +1,11 @@
+## Copy this file to "local.properties" (same folder) and fill in the values below.
+## local.properties is NOT committed to version control because it holds machine-specific
+## paths and secret API keys.
+
+## Path to your Android SDK installation.
+# sdk.dir=/Users/yourname/Library/Android/sdk
+
+## Google Maps SDK for Android API key.
+## Create one at https://console.cloud.google.com/google/maps-apis/credentials
+## and enable "Maps SDK for Android" for the key.
+MAPS_API_KEY=REPLACE_WITH_YOUR_GOOGLE_MAPS_API_KEY
