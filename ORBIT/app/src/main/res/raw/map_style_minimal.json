@@ -1,0 +1,7 @@
+[
+  { "featureType": "poi", "stylers": [{ "visibility": "off" }] },
+  { "featureType": "transit", "stylers": [{ "visibility": "off" }] },
+  { "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] },
+  { "featureType": "road", "elementType": "geometry", "stylers": [{ "color": "#e8e8e8" }] },
+  { "featureType": "water", "elementType": "geometry", "stylers": [{ "color": "#d7e9f7" }] }
+]

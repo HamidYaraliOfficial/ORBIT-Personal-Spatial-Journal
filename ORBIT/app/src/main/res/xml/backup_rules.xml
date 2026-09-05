@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto Backup (Android's OS-level backup, distinct from ORBIT's own in-app Backup & Restore
+     screen) explicitly excludes the Room database and voice recordings: those are only ever
+     backed up through ORBIT's own encrypted flow, where the user controls encryption and
+     destination. -->
+<full-backup-content>
+    <exclude domain="database" path="orbit_database.db" />
+    <exclude domain="file" path="voice_memories/" />
+</full-backup-content>

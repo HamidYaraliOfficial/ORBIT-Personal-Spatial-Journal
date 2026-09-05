@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ORBIT</string>
+    <string name="app_tagline">ژورنال مکانی شخصی</string>
+
+    <string name="nav_home">خانه</string>
+    <string name="nav_map">نقشه</string>
+    <string name="nav_timeline">جدول زمانی</string>
+    <string name="nav_memories">خاطرات</string>
+    <string name="nav_trips">سفرها</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="nav_search">جستجو</string>
+    <string name="nav_graph">گراف</string>
+
+    <string name="action_save">ذخیره</string>
+    <string name="action_cancel">لغو</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_share">اشتراک‌گذاری</string>
+    <string name="action_favorite">مورد علاقه</string>
+    <string name="action_archive">بایگانی</string>
+    <string name="action_capture">ثبت خاطره</string>
+    <string name="action_add_tag">افزودن برچسب</string>
+    <string name="action_accept">پذیرفتن</string>
+    <string name="action_dismiss">رد کردن</string>
+    <string name="action_open_detail">مشاهده جزئیات</string>
+    <string name="action_create_task">ایجاد وظیفه</string>
+    <string name="action_add_reminder">افزودن یادآور</string>
+    <string name="action_show_related">نمایش خاطرات مرتبط</string>
+    <string name="action_locate_me">موقعیت من</string>
+
+    <string name="home_todays_recap">مرور امروز</string>
+    <string name="home_recent_memories">خاطرات اخیر</string>
+    <string name="home_see_all">مشاهده همه</string>
+    <string name="home_suggested_trips">سفرهای پیشنهادی</string>
+    <string name="home_empty_recap">امروز هنوز خاطره‌ای ثبت نشده است.</string>
+
+    <string name="memory_type_photo">عکس</string>
+    <string name="memory_type_video">ویدیو</string>
+    <string name="memory_type_voice">صوتی</string>
+    <string name="memory_type_note">یادداشت</string>
+    <string name="memory_type_journal">ژورنال</string>
+    <string name="memory_type_event">رویداد</string>
+    <string name="memory_type_place">مکان</string>
+    <string name="memory_type_trip">سفر</string>
+    <string name="memory_type_task">وظیفه</string>
+    <string name="memory_type_bookmark">نشان‌شده</string>
+    <string name="memory_type_document">سند</string>
+    <string name="memory_type_custom">سفارشی</string>
+
+    <string name="capture_title">ثبت خاطره</string>
+    <string name="capture_field_title">عنوان</string>
+    <string name="capture_field_description">توضیحات</string>
+    <string name="capture_field_add_tag">افزودن برچسب</string>
+    <string name="capture_choose_photo">انتخاب عکس</string>
+    <string name="capture_photo_selected">عکس انتخاب شد</string>
+    <string name="capture_record_voice">ضبط یادداشت صوتی</string>
+    <string name="capture_stop_recording">توقف ضبط</string>
+    <string name="capture_location_captured">موقعیت مکانی ثبت شد</string>
+    <string name="capture_save_memory">ذخیره خاطره</string>
+
+    <string name="timeline_empty">در این بازه خاطره‌ای وجود ندارد</string>
+    <string name="timeline_granularity_day">روز</string>
+    <string name="timeline_granularity_week">هفته</string>
+    <string name="timeline_granularity_month">ماه</string>
+    <string name="timeline_granularity_year">سال</string>
+    <string name="timeline_granularity_travel">سفر</string>
+
+    <string name="place_memories_count">خاطره</string>
+    <string name="place_photos_count">عکس</string>
+    <string name="place_voice_count">صوتی</string>
+    <string name="place_set_opening_hours">تنظیم ساعات کاری</string>
+    <string name="place_hide_hours_editor">پنهان کردن ویرایشگر ساعات</string>
+    <string name="place_open_now">اکنون باز است</string>
+    <string name="place_closed">بسته است</string>
+    <string name="place_closes_in">%1$s دیگر بسته می‌شود</string>
+    <string name="place_opens_in">%1$s دیگر باز می‌شود</string>
+    <string name="place_frequently_mentioned">موضوعات پرتکرار</string>
+
+    <string name="trip_generate_summary">تولید خلاصه هوشمند سفر</string>
+    <string name="trip_all_trips">همه سفرها</string>
+    <string name="trip_suggested_trips">سفرهای پیشنهادی</string>
+
+    <string name="search_hint">مثال: «تابستان پارسال کجا بودم؟»</string>
+
+    <string name="settings_title">تنظیمات</string>
+    <string name="settings_appearance">ظاهر برنامه</string>
+    <string name="settings_accent">رنگ اصلی</string>
+    <string name="settings_language">زبان</string>
+    <string name="settings_location">موقعیت مکانی</string>
+    <string name="settings_privacy_center">مرکز حریم خصوصی</string>
+    <string name="settings_privacy_center_subtitle">دسترسی‌ها، نگهداری داده، دسترسی هوش مصنوعی، قفل برنامه</string>
+    <string name="settings_backup_restore">پشتیبان‌گیری و بازیابی</string>
+    <string name="theme_light">روشن</string>
+    <string name="theme_dark">تاریک</string>
+    <string name="theme_amoled">امولد</string>
+    <string name="theme_system">سیستم</string>
+    <string name="accent_windows11">ویندوز ۱۱ (پیش‌فرض)</string>
+    <string name="accent_red">قرمز</string>
+    <string name="accent_blue">آبی</string>
+    <string name="location_mode_off">خاموش</string>
+    <string name="location_mode_manual">دستی</string>
+    <string name="location_mode_while_using">فقط هنگام استفاده از برنامه</string>
+    <string name="location_mode_smart_context">هوشمند</string>
+    <string name="location_mode_background_reminders">یادآورهای پس‌زمینه</string>
+
+    <string name="privacy_data_access">دسترسی به داده‌ها</string>
+    <string name="privacy_ai_access_title">دسترسی هوش مصنوعی به خاطرات شما</string>
+    <string name="privacy_ai_access_subtitle">به دستیار داخل‌گوشی اجازه می‌دهد خاطرات شما را برای ساخت مرور و داستان بخواند. هیچ داده‌ای از گوشی خارج نمی‌شود.</string>
+    <string name="privacy_cloud_ai_title">هوش مصنوعی ابری (اختیاری)</string>
+    <string name="privacy_cloud_ai_subtitle">به‌طور پیش‌فرض غیرفعال است. در صورت فعال‌سازی، برخی درخواست‌ها به سرویس ابری ارسال می‌شوند.</string>
+    <string name="privacy_analytics_title">آمار ناشناس استفاده</string>
+    <string name="privacy_analytics_subtitle">به‌طور پیش‌فرض غیرفعال است. هرگز شامل محتوای خاطرات یا موقعیت دقیق نمی‌شود.</string>
+    <string name="privacy_app_lock_title">قفل برنامه (بیومتریک)</string>
+    <string name="privacy_app_lock_subtitle">برای باز کردن ORBIT، اثر انگشت، تشخیص چهره یا رمز دستگاه لازم است.</string>
+    <string name="privacy_location_data">داده‌های مکانی</string>
+    <string name="privacy_location_history">تاریخچه موقعیت مکانی</string>
+    <string name="privacy_location_history_subtitle">مشاهده، خروجی‌گیری یا حذف نمونه‌های خام موقعیت مکانی</string>
+    <string name="privacy_retention_label">حذف خودکار تاریخچه موقعیت پس از %1$d روز</string>
+
+    <string name="backup_encrypt_toggle">رمزگذاری پشتیبان (AES-256، Android Keystore)</string>
+    <string name="backup_create_now">ایجاد پشتیبان اکنون</string>
+    <string name="backup_restore">بازیابی از پشتیبان</string>
+
+    <string name="channel_reminders">یادآورها</string>
+    <string name="channel_visits">آگاهی مکانی</string>
+    <string name="channel_backup">پشتیبان‌گیری</string>
+    <string name="notification_reminder_body">برای مرور این یادآور در ORBIT ضربه بزنید.</string>
+    <string name="notification_place_reminder_title">شما نزدیک یک یادداشت ذخیره‌شده هستید</string>
+    <string name="notification_duplicates_title">عکس‌های تکراری احتمالی یافت شد</string>
+    <string name="notification_duplicates_body">%1$d مورد تکراری احتمالی آماده بررسی است.</string>
+    <string name="location_service_notification_title">ORBIT در حال ردیابی موقعیت مکانی است</string>
+    <string name="location_service_notification_body">برای تشخیص حضور و یادآورهای مکانی استفاده می‌شود. از تنظیمات قابل مدیریت است.</string>
+
+    <string name="quick_settings_tile_label">ثبت سریع</string>
+    <string name="widget_quick_capture_label">ثبت سریع ORBIT</string>
+    <string name="widget_today_memory_label">ORBIT امروز</string>
+    <string name="shortcut_photo_short">عکس</string>
+    <string name="shortcut_photo_long">ثبت خاطره عکس</string>
+    <string name="shortcut_voice_short">صوتی</string>
+    <string name="shortcut_voice_long">ثبت خاطره صوتی</string>
+    <string name="shortcut_note_short">یادداشت</string>
+    <string name="shortcut_note_long">ثبت خاطره یادداشتی</string>
+</resources>

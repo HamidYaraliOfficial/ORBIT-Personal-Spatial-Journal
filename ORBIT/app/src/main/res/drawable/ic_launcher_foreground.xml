@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Simple orbit-ring + pin motif, matching the app's map/journal concept. -->
+    <path android:fillColor="#00000000" android:pathData="M54,54"/>
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="4"
+        android:pathData="M20,54 A34,14 0 1,0 88,54 A34,14 0 1,0 20,54 Z" />
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M54,30C46,30 40,36.5 40,44.5C40,55.5 54,72 54,72S68,55.5 68,44.5C68,36.5 62,30 54,30ZM54,50C50.7,50 48,47.3 48,44C48,40.7 50.7,38 54,38C57.3,38 60,40.7 60,44C60,47.3 57.3,50 54,50Z"/>
+</vector>

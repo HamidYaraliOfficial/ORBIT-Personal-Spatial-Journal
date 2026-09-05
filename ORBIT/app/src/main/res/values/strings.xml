@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ORBIT</string>
+    <string name="app_tagline">Personal Spatial Journal</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_timeline">Timeline</string>
+    <string name="nav_memories">Memories</string>
+    <string name="nav_trips">Trips</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_graph">Graph</string>
+
+    <!-- Common actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_archive">Archive</string>
+    <string name="action_capture">Capture</string>
+    <string name="action_add_tag">Add tag</string>
+    <string name="action_accept">Accept</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_open_detail">Open detail</string>
+    <string name="action_create_task">Create task</string>
+    <string name="action_add_reminder">Add reminder</string>
+    <string name="action_show_related">Show related memories</string>
+    <string name="action_locate_me">Locate me</string>
+
+    <!-- Home -->
+    <string name="home_todays_recap">Today\'s recap</string>
+    <string name="home_recent_memories">Recent memories</string>
+    <string name="home_see_all">See all</string>
+    <string name="home_suggested_trips">Suggested trips</string>
+    <string name="home_empty_recap">No memories captured today yet.</string>
+
+    <!-- Memory types -->
+    <string name="memory_type_photo">Photo</string>
+    <string name="memory_type_video">Video</string>
+    <string name="memory_type_voice">Voice</string>
+    <string name="memory_type_note">Note</string>
+    <string name="memory_type_journal">Journal</string>
+    <string name="memory_type_event">Event</string>
+    <string name="memory_type_place">Place</string>
+    <string name="memory_type_trip">Trip</string>
+    <string name="memory_type_task">Task</string>
+    <string name="memory_type_bookmark">Bookmark</string>
+    <string name="memory_type_document">Document</string>
+    <string name="memory_type_custom">Custom</string>
+
+    <!-- Capture -->
+    <string name="capture_title">Capture</string>
+    <string name="capture_field_title">Title</string>
+    <string name="capture_field_description">Description</string>
+    <string name="capture_field_add_tag">Add tag</string>
+    <string name="capture_choose_photo">Choose photo</string>
+    <string name="capture_photo_selected">Photo selected</string>
+    <string name="capture_record_voice">Record voice note</string>
+    <string name="capture_stop_recording">Stop recording</string>
+    <string name="capture_location_captured">Location captured</string>
+    <string name="capture_save_memory">Save memory</string>
+
+    <!-- Timeline -->
+    <string name="timeline_empty">No memories in this period</string>
+    <string name="timeline_granularity_day">Day</string>
+    <string name="timeline_granularity_week">Week</string>
+    <string name="timeline_granularity_month">Month</string>
+    <string name="timeline_granularity_year">Year</string>
+    <string name="timeline_granularity_travel">Travel</string>
+
+    <!-- Places -->
+    <string name="place_memories_count">memories</string>
+    <string name="place_photos_count">photos</string>
+    <string name="place_voice_count">voice</string>
+    <string name="place_set_opening_hours">Set opening hours</string>
+    <string name="place_hide_hours_editor">Hide hours editor</string>
+    <string name="place_open_now">Open now</string>
+    <string name="place_closed">Closed</string>
+    <string name="place_closes_in">closes in %1$s</string>
+    <string name="place_opens_in">opens in %1$s</string>
+    <string name="place_frequently_mentioned">Frequently mentioned</string>
+
+    <!-- Trips -->
+    <string name="trip_generate_summary">Generate AI trip summary</string>
+    <string name="trip_all_trips">All trips</string>
+    <string name="trip_suggested_trips">Suggested trips</string>
+
+    <!-- Search -->
+    <string name="search_hint">Try: \"where was I last summer\"</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_accent">Accent</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_location">Location</string>
+    <string name="settings_privacy_center">Privacy Center</string>
+    <string name="settings_privacy_center_subtitle">Permissions, retention, AI access, app lock</string>
+    <string name="settings_backup_restore">Backup &amp; Restore</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_amoled">AMOLED</string>
+    <string name="theme_system">System</string>
+    <string name="accent_windows11">Windows 11 (default)</string>
+    <string name="accent_red">Red</string>
+    <string name="accent_blue">Blue</string>
+    <string name="location_mode_off">Off</string>
+    <string name="location_mode_manual">Manual</string>
+    <string name="location_mode_while_using">While using the app</string>
+    <string name="location_mode_smart_context">Smart context</string>
+    <string name="location_mode_background_reminders">Background reminders</string>
+
+    <!-- Privacy Center -->
+    <string name="privacy_data_access">Data access</string>
+    <string name="privacy_ai_access_title">AI access to your memories</string>
+    <string name="privacy_ai_access_subtitle">Lets the on-device assistant read your memories to build recaps and stories. Nothing leaves your device.</string>
+    <string name="privacy_cloud_ai_title">Cloud AI (optional)</string>
+    <string name="privacy_cloud_ai_subtitle">Off by default. If enabled, some AI requests may be sent to a cloud provider instead of running on-device.</string>
+    <string name="privacy_analytics_title">Anonymous usage analytics</string>
+    <string name="privacy_analytics_subtitle">Off by default. Never includes memory content or precise location.</string>
+    <string name="privacy_app_lock_title">App Lock (biometric)</string>
+    <string name="privacy_app_lock_subtitle">Require fingerprint/face or device credential to open ORBIT.</string>
+    <string name="privacy_location_data">Location data</string>
+    <string name="privacy_location_history">Location History</string>
+    <string name="privacy_location_history_subtitle">View, export or delete raw location samples</string>
+    <string name="privacy_retention_label">Auto-delete location history after %1$d days</string>
+
+    <!-- Backup -->
+    <string name="backup_encrypt_toggle">Encrypt backup (AES-256, Android Keystore)</string>
+    <string name="backup_create_now">Create backup now</string>
+    <string name="backup_restore">Restore from backup</string>
+
+    <!-- Notifications / channels -->
+    <string name="channel_reminders">Reminders</string>
+    <string name="channel_visits">Location awareness</string>
+    <string name="channel_backup">Backup</string>
+    <string name="notification_reminder_body">Tap to review this reminder in ORBIT.</string>
+    <string name="notification_place_reminder_title">You\'re near a saved note</string>
+    <string name="notification_duplicates_title">Possible duplicate photos found</string>
+    <string name="notification_duplicates_body">%1$d possible duplicates ready for your review.</string>
+    <string name="location_service_notification_title">ORBIT is tracking location</string>
+    <string name="location_service_notification_body">Used for Visit Detection and Place Reminders. Manage this in Settings.</string>
+
+    <!-- Quick Settings / Widgets / Shortcuts -->
+    <string name="quick_settings_tile_label">Quick Capture</string>
+    <string name="widget_quick_capture_label">ORBIT Quick Capture</string>
+    <string name="widget_today_memory_label">ORBIT Today</string>
+    <string name="shortcut_photo_short">Photo</string>
+    <string name="shortcut_photo_long">Capture a photo memory</string>
+    <string name="shortcut_voice_short">Voice</string>
+    <string name="shortcut_voice_long">Capture a voice memory</string>
+    <string name="shortcut_note_short">Note</string>
+    <string name="shortcut_note_long">Capture a note memory</string>
+</resources>

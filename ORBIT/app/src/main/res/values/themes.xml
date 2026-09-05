@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Actual theming (colors, dark/light/amoled, accent) is done in Compose via
+         ui/theme/Theme.kt. These XML themes exist only for the window background / splash
+         moment before Compose takes over, so there's no flash of an unstyled window. -->
+    <style name="Theme.Orbit" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <style name="Theme.Orbit.Splash" parent="Theme.Orbit">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>

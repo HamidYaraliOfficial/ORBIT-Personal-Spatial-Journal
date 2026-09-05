@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Orbit" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+    <style name="Theme.Orbit.Splash" parent="Theme.Orbit">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ORBIT</string>
+    <string name="app_tagline">个人空间日记</string>
+
+    <string name="nav_home">首页</string>
+    <string name="nav_map">地图</string>
+    <string name="nav_timeline">时间线</string>
+    <string name="nav_memories">回忆</string>
+    <string name="nav_trips">旅行</string>
+    <string name="nav_settings">设置</string>
+    <string name="nav_search">搜索</string>
+    <string name="nav_graph">关系图谱</string>
+
+    <string name="action_save">保存</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_delete">删除</string>
+    <string name="action_share">分享</string>
+    <string name="action_favorite">收藏</string>
+    <string name="action_archive">归档</string>
+    <string name="action_capture">记录</string>
+    <string name="action_add_tag">添加标签</string>
+    <string name="action_accept">接受</string>
+    <string name="action_dismiss">忽略</string>
+    <string name="action_open_detail">查看详情</string>
+    <string name="action_create_task">创建任务</string>
+    <string name="action_add_reminder">添加提醒</string>
+    <string name="action_show_related">显示相关回忆</string>
+    <string name="action_locate_me">定位我</string>
+
+    <string name="home_todays_recap">今日回顾</string>
+    <string name="home_recent_memories">最近的回忆</string>
+    <string name="home_see_all">查看全部</string>
+    <string name="home_suggested_trips">推荐的旅行</string>
+    <string name="home_empty_recap">今天还没有记录任何回忆。</string>
+
+    <string name="memory_type_photo">照片</string>
+    <string name="memory_type_video">视频</string>
+    <string name="memory_type_voice">语音</string>
+    <string name="memory_type_note">笔记</string>
+    <string name="memory_type_journal">日记</string>
+    <string name="memory_type_event">事件</string>
+    <string name="memory_type_place">地点</string>
+    <string name="memory_type_trip">旅行</string>
+    <string name="memory_type_task">任务</string>
+    <string name="memory_type_bookmark">书签</string>
+    <string name="memory_type_document">文档</string>
+    <string name="memory_type_custom">自定义</string>
+
+    <string name="capture_title">记录回忆</string>
+    <string name="capture_field_title">标题</string>
+    <string name="capture_field_description">描述</string>
+    <string name="capture_field_add_tag">添加标签</string>
+    <string name="capture_choose_photo">选择照片</string>
+    <string name="capture_photo_selected">已选择照片</string>
+    <string name="capture_record_voice">录制语音笔记</string>
+    <string name="capture_stop_recording">停止录制</string>
+    <string name="capture_location_captured">已获取位置</string>
+    <string name="capture_save_memory">保存回忆</string>
+
+    <string name="timeline_empty">此时间段内没有回忆</string>
+    <string name="timeline_granularity_day">日</string>
+    <string name="timeline_granularity_week">周</string>
+    <string name="timeline_granularity_month">月</string>
+    <string name="timeline_granularity_year">年</string>
+    <string name="timeline_granularity_travel">旅行</string>
+
+    <string name="place_memories_count">回忆</string>
+    <string name="place_photos_count">照片</string>
+    <string name="place_voice_count">语音</string>
+    <string name="place_set_opening_hours">设置营业时间</string>
+    <string name="place_hide_hours_editor">隐藏时间编辑器</string>
+    <string name="place_open_now">营业中</string>
+    <string name="place_closed">已打烊</string>
+    <string name="place_closes_in">%1$s后打烊</string>
+    <string name="place_opens_in">%1$s后营业</string>
+    <string name="place_frequently_mentioned">常见主题</string>
+
+    <string name="trip_generate_summary">生成AI旅行摘要</string>
+    <string name="trip_all_trips">所有旅行</string>
+    <string name="trip_suggested_trips">推荐的旅行</string>
+
+    <string name="search_hint">试试：“去年夏天我在哪里？”</string>
+
+    <string name="settings_title">设置</string>
+    <string name="settings_appearance">外观</string>
+    <string name="settings_accent">主题色</string>
+    <string name="settings_language">语言</string>
+    <string name="settings_location">位置</string>
+    <string name="settings_privacy_center">隐私中心</string>
+    <string name="settings_privacy_center_subtitle">权限、数据保留、AI访问、应用锁</string>
+    <string name="settings_backup_restore">备份与恢复</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="theme_amoled">纯黑</string>
+    <string name="theme_system">跟随系统</string>
+    <string name="accent_windows11">Windows 11（默认）</string>
+    <string name="accent_red">红色</string>
+    <string name="accent_blue">蓝色</string>
+    <string name="location_mode_off">关闭</string>
+    <string name="location_mode_manual">手动</string>
+    <string name="location_mode_while_using">仅使用应用时</string>
+    <string name="location_mode_smart_context">智能情境</string>
+    <string name="location_mode_background_reminders">后台提醒</string>
+
+    <string name="privacy_data_access">数据访问</string>
+    <string name="privacy_ai_access_title">AI访问您的回忆</string>
+    <string name="privacy_ai_access_subtitle">允许设备端助手读取您的回忆以生成回顾和故事。所有数据都不会离开您的设备。</string>
+    <string name="privacy_cloud_ai_title">云端AI（可选）</string>
+    <string name="privacy_cloud_ai_subtitle">默认关闭。启用后，部分AI请求可能会发送到云端服务，而非在本机运行。</string>
+    <string name="privacy_analytics_title">匿名使用统计</string>
+    <string name="privacy_analytics_subtitle">默认关闭。绝不包含回忆内容或精确位置。</string>
+    <string name="privacy_app_lock_title">应用锁（生物识别）</string>
+    <string name="privacy_app_lock_subtitle">打开ORBIT需要指纹、面容或设备凭证验证。</string>
+    <string name="privacy_location_data">位置数据</string>
+    <string name="privacy_location_history">位置历史</string>
+    <string name="privacy_location_history_subtitle">查看、导出或删除原始位置样本</string>
+    <string name="privacy_retention_label">%1$d 天后自动删除位置历史</string>
+
+    <string name="backup_encrypt_toggle">加密备份（AES-256，Android密钥库）</string>
+    <string name="backup_create_now">立即创建备份</string>
+    <string name="backup_restore">从备份恢复</string>
+
+    <string name="channel_reminders">提醒</string>
+    <string name="channel_visits">位置感知</string>
+    <string name="channel_backup">备份</string>
+    <string name="notification_reminder_body">点击在ORBIT中查看此提醒。</string>
+    <string name="notification_place_reminder_title">您正靠近一条已保存的笔记</string>
+    <string name="notification_duplicates_title">发现可能的重复照片</string>
+    <string name="notification_duplicates_body">有 %1$d 个可能的重复项待您查看。</string>
+    <string name="location_service_notification_title">ORBIT正在追踪位置</string>
+    <string name="location_service_notification_body">用于位置识别和地点提醒。可在设置中管理。</string>
+
+    <string name="quick_settings_tile_label">快速记录</string>
+    <string name="widget_quick_capture_label">ORBIT 快速记录</string>
+    <string name="widget_today_memory_label">ORBIT 今日</string>
+    <string name="shortcut_photo_short">照片</string>
+    <string name="shortcut_photo_long">记录一张照片回忆</string>
+    <string name="shortcut_voice_short">语音</string>
+    <string name="shortcut_voice_long">记录一条语音回忆</string>
+    <string name="shortcut_note_short">笔记</string>
+    <string name="shortcut_note_long">记录一条笔记回忆</string>
+</resources>
